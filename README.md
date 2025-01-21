@@ -40,9 +40,9 @@ python Matrix_Spiral.py
 ### Example Output
 For the 4x4 matrix:
 ```
-1   2   3   4
-5   6   7   8
-9  10  11  12
+ 1   2   3   4
+ 5   6   7   8
+ 9  10  11  12
 13  14  15  16
 ```
 The script will display an animated spiral traversal of the matrix with color coding.
